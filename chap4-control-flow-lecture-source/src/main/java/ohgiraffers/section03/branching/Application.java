@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03.branching;
+package ohgiraffers.section03.branching;
 
 public class Application {
     public static void main(String[] args) {

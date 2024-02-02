@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.looping;
+package ohgiraffers.section02.looping;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
@@ -111,105 +111,6 @@ public class A_for {
         }
 
         System.out.println("sum2 = " + sum2);
-
-    }
-    public void testForExample3() {
-
-        /*5~10사이를 발생시켜서
-        * 1부터 발생한 난수까지의 합계를 구해보자*/
-
-        int random=(int)(Math.random()*6)+5;
-
-        System.out.println("random = " + random);
-
-        int sum=0;
-
-        if(random==5) {
-            sum+=1;
-            sum+=2;
-            sum+=3;
-            sum+=4;
-            sum+=5;
-
-        } else if (random==6) {
-            sum+=1;
-            sum+=2;
-            sum+=3;
-            sum+=4;
-            sum+=5;
-            sum+=6;
-
-        } else if(random==9) {
-            sum+=1;
-            sum+=2;
-            sum+=3;
-            sum+=4;
-            sum+=5;
-            sum+=6;
-            sum+=7;
-            sum+=8;
-            sum+=9;
-
-        } else {
-            sum+=1;
-            sum+=2;
-            sum+=3;
-            sum+=4;
-            sum+=5;
-            sum+=6;
-            sum+=7;
-            sum+=8;
-            sum+=9;
-            sum+=10;
-        }
-
-        System.out.println("1부터"+ random + "까지의 합은: "+ sum);
-
-
-        int sum2=0;
-
-        for(int i=1; i<=random; i++) {
-            sum2 +=i;
-
-        }
-
-        System.out.println("1부터"+ random + "까지의 합은: "+ sum2);
-
-    }
-
-    public void testForExample4() {
-
-        /*키보드로 2~9 사이의 구구단을 입력받아
-        * 2~9 사이인 경우 해당 단의 구구단을 출력하고,
-        * 그렇지 않은 경우 "반드시 2~9 사이의 양수를 입력해야 합니다" 출력
-        * */
-
-        Scanner sc=new Scanner(System.in);
-        System.out.print("출력할 구구단의 단 수를 입력하세요: ");
-        int dan=sc.nextInt();
-
-        //입력한 숫자가 2~9사이인지 조건 확이
-        if(dan>=2 && dan<=9) {
-            //System.out.println(dan+ "+" + 1 + "=" + (dan+1));
-            //System.out.println(dan+ "+" + 2 + "=" + (dan+2));
-            //System.out.println(dan+ "+" + 3 + "=" + (dan+3));
-            //System.out.println(dan+ "+" + 4 + "=" + (dan+4));
-            //System.out.println(dan+ "+" + 5 + "=" + (dan+5));
-            //System.out.println(dan+ "+" + 6 + "=" + (dan+6));
-            //System.out.println(dan+ "+" + 7 + "=" + (dan+7));
-            //System.out.println(dan+ "+" + 8 + "=" + (dan+8));
-            //System.out.println(dan+ "+" + 9 + "=" + (dan+9));
-
-            for(int su=1; su<=9; su++) {
-                System.out.println(dan +"*" + su +"=" +(dan*su));
-            }
-
-        } else {
-            System.out.println("반드시 2~9사이의 양수를 입력해야 합니다.");
-
-        }
-
-        System.out.println("프로그램을 종료합니다.");
 
     }
 

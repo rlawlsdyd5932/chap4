@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.looping;
+package ohgiraffers.section02.looping;
 
 import java.util.Scanner;
 

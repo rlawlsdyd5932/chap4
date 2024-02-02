@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.conditional;
+package ohgiraffers.section01.conditional;
 
 import java.nio.channels.SelectableChannel;
 import java.util.Scanner;
