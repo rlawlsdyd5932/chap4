@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22cb1c01-fc3c-499b-a1f7-f9de69fb498d" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/practice_chap4/A_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/practice_chap4/A_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/practice_chap4/Applicaiton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/practice_chap4/Applicaiton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/A_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section01/conditional/A_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section01/conditional/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/B_ifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section01/conditional/B_ifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/C_ifElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section01/conditional/C_ifElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/D_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section01/conditional/D_switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_nestedFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section02/looping/A_nestedFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section02/looping/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/B_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section02/looping/B_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/C_doWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section02/looping/C_doWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/A_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section03/branching/A_break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section03/branching/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section03/branching/B_continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap4-control-flow-lecture-source/src/main/java/ohgiraffers/section03/branching/B_continue.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bhVJywMVCbkmCITkEVbCzLMFYy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.chap04-control-flow-lecture-source [:Application.main()].executor": "Run",
+    "Gradle.chap04-control-flow-lecture-source [:Application1.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/01_java/chap4-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Lecture\" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.practice_chap4" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-4caba194b151-b3785831" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22cb1c01-fc3c-499b-a1f7-f9de69fb498d" name="Changes" comment="" />
+      <created>1706667231463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706667231463</updated>
+      <workItem from="1706667232460" duration="22795000" />
+      <workItem from="1706747700418" duration="14231000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706693363770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706693363770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706751491611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706751491611</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706759683949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706759683949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706759693148</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706759693148</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706760797156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706760797156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706760900321</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706760900321</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1706761134737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706761134737</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;commit&quot;&#10;&#10;This reverts commit 48ea3041" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
